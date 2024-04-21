@@ -18,4 +18,4 @@ nmp install
 npm run dev
 ```
 ## sample Image
-
+![Fist img](1 (1).png)
