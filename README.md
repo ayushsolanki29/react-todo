@@ -18,4 +18,4 @@ nmp install
 npm run dev
 ```
 ## sample Image
-![1st img]([https://github.com/ayushsolanki29/react-todo/1(1).png](https://github.com/ayushsolanki29/react-todo/blob/main/1(1).png))
+![1st img](https://raw.githubusercontent.com/ayushsolanki29/react-todo/main/1(1).png))
