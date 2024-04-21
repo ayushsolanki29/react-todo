@@ -1,0 +1,78 @@
+.todo {
+    max-width: 600px;
+    width: 70%;
+    min-height: 700px;
+    border-radius: 20px;
+    background: #ffffff;
+    margin: 100px auto 80px auto;
+    padding: 0 44px 30px 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .todo-header {
+    margin-top: 80px;
+    color: #002765;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  .todo-add {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .todo-input {
+    border-radius: 25px;
+    background: #f4f4f4;
+    border: 1px solid #e0e0e0;
+    outline: none;
+    width: 100%;
+    max-width: 500px;
+    height: 50px;
+    padding: 0 20px;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .todo-input:focus {
+    background-color: #ffffff;
+  }
+  
+  .todo-add-btn {
+    border-radius: 25px;
+    background-color: #ff6739;
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .todo-add-btn:hover {
+    background-color: #e55e31;
+  }
+  
+  .todo-list {
+    max-width: 500px;
+    width: 100%; /* Adjusted to take full width of its container */
+    overflow-y: auto; /* Vertical scrolling only */
+    overflow-x: hidden; /* Hide horizontal overflow */
+    padding-right: 15px; /* Add a little padding to prevent content from sticking to the edge */
+    margin: 20px auto; /* Centering the list with top and bottom margins */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow for depth */
+  }
+  
