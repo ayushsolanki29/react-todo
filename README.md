@@ -1,6 +1,6 @@
 # React TODO app with created with vite
 
-## What is Use case ?
+## Features
 - add Task
 - Check uncheck Task
 - delete Task
