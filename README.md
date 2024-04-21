@@ -1,12 +1,12 @@
-## React TODO app with created with vite
+# React TODO app with created with vite
 
-# What is Use case ?
+## What is Use case ?
 - add Task
 - Check uncheck Task
 - delete Task
 - store permanently in browser until Delete
 
-# how to setup
+## how to setup
 - first Download  or clone this repo
 - then use this commands
 ```bash
@@ -16,4 +16,6 @@ nmp install
 - then run command for server start
 ```
 npm run dev
-``` 
+```
+## sample Image
+
